@@ -9,5 +9,5 @@ No meio disso tudo, também aprendi um pouco sobre coisas importantes sobre o us
 Resumindo, a experiência de mexer com Angular e fazer projetos como o "Dynamic Forms" não só me ajudou a melhorar tecnicamente, mas também me deu uma boa visão de como criar SPAs modernas e eficientes, do jeito certo.
 
 <img src="./Captura de tela de 2024-03-02 16-49-18.png" ></img>
-<img src="./Captura de tela de 2024-03-02 16-49-18.png" ></img>
+<img src="./Captura de tela de 2024-03-02 16-49-48.png" ></img>
 
